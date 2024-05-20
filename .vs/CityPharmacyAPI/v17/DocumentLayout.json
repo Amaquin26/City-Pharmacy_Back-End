@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Brayl\\source\\repos\\CityPharmacyAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFE3B48-7980-41E1-970B-CF2BF568213F}|CityPharmacyAPI.csproj|c:\\users\\brayl\\source\\repos\\citypharmacyapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFE3B48-7980-41E1-970B-CF2BF568213F}|CityPharmacyAPI.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFE3B48-7980-41E1-970B-CF2BF568213F}|CityPharmacyAPI.csproj|c:\\users\\brayl\\source\\repos\\citypharmacyapi\\models\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFE3B48-7980-41E1-970B-CF2BF568213F}|CityPharmacyAPI.csproj|solutionrelative:models\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFE3B48-7980-41E1-970B-CF2BF568213F}|CityPharmacyAPI.csproj|c:\\users\\brayl\\source\\repos\\citypharmacyapi\\data\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFE3B48-7980-41E1-970B-CF2BF568213F}|CityPharmacyAPI.csproj|solutionrelative:data\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFE3B48-7980-41E1-970B-CF2BF568213F}|CityPharmacyAPI.csproj|c:\\users\\brayl\\source\\repos\\citypharmacyapi\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFE3B48-7980-41E1-970B-CF2BF568213F}|CityPharmacyAPI.csproj|solutionrelative:data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFE3B48-7980-41E1-970B-CF2BF568213F}|CityPharmacyAPI.csproj|c:\\users\\brayl\\source\\repos\\citypharmacyapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFE3B48-7980-41E1-970B-CF2BF568213F}|CityPharmacyAPI.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFE3B48-7980-41E1-970B-CF2BF568213F}|CityPharmacyAPI.csproj|c:\\users\\brayl\\source\\repos\\citypharmacyapi\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFE3B48-7980-41E1-970B-CF2BF568213F}|CityPharmacyAPI.csproj|solutionrelative:models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFE3B48-7980-41E1-970B-CF2BF568213F}|CityPharmacyAPI.csproj|c:\\users\\brayl\\source\\repos\\citypharmacyapi\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFE3B48-7980-41E1-970B-CF2BF568213F}|CityPharmacyAPI.csproj|solutionrelative:models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFE3B48-7980-41E1-970B-CF2BF568213F}|CityPharmacyAPI.csproj|c:\\users\\brayl\\source\\repos\\citypharmacyapi\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFE3B48-7980-41E1-970B-CF2BF568213F}|CityPharmacyAPI.csproj|solutionrelative:models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFE3B48-7980-41E1-970B-CF2BF568213F}|CityPharmacyAPI.csproj|c:\\users\\brayl\\source\\repos\\citypharmacyapi\\models\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFE3B48-7980-41E1-970B-CF2BF568213F}|CityPharmacyAPI.csproj|solutionrelative:models\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFE3B48-7980-41E1-970B-CF2BF568213F}|CityPharmacyAPI.csproj|c:\\users\\brayl\\source\\repos\\citypharmacyapi\\data\\enum\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFE3B48-7980-41E1-970B-CF2BF568213F}|CityPharmacyAPI.csproj|solutionrelative:data\\enum\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFE3B48-7980-41E1-970B-CF2BF568213F}|CityPharmacyAPI.csproj|c:\\users\\brayl\\source\\repos\\citypharmacyapi\\data\\enum\\itemstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFE3B48-7980-41E1-970B-CF2BF568213F}|CityPharmacyAPI.csproj|solutionrelative:data\\enum\\itemstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFE3B48-7980-41E1-970B-CF2BF568213F}|CityPharmacyAPI.csproj|c:\\users\\brayl\\source\\repos\\citypharmacyapi\\data\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFE3B48-7980-41E1-970B-CF2BF568213F}|CityPharmacyAPI.csproj|solutionrelative:data\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFE3B48-7980-41E1-970B-CF2BF568213F}|CityPharmacyAPI.csproj|c:\\users\\brayl\\source\\repos\\citypharmacyapi\\data\\enum\\identitystatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFE3B48-7980-41E1-970B-CF2BF568213F}|CityPharmacyAPI.csproj|solutionrelative:data\\enum\\identitystatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFE3B48-7980-41E1-970B-CF2BF568213F}|CityPharmacyAPI.csproj|c:\\users\\brayl\\source\\repos\\citypharmacyapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFE3B48-7980-41E1-970B-CF2BF568213F}|CityPharmacyAPI.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFE3B48-7980-41E1-970B-CF2BF568213F}|CityPharmacyAPI.csproj|c:\\users\\brayl\\source\\repos\\citypharmacyapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFE3B48-7980-41E1-970B-CF2BF568213F}|CityPharmacyAPI.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Brayl\\source\\repos\\CityPharmacyAPI\\Data\\Enum\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "Data\\Enum\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\Brayl\\source\\repos\\CityPharmacyAPI\\Data\\Enum\\OrderStatus.cs",
+              "RelativeToolTip": "Data\\Enum\\OrderStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T03:51:52.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\Brayl\\source\\repos\\CityPharmacyAPI\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\Brayl\\source\\repos\\CityPharmacyAPI\\Models\\OrderItem.cs",
+              "RelativeToolTip": "Models\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T03:41:25.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Seed.cs",
+              "DocumentMoniker": "C:\\Users\\Brayl\\source\\repos\\CityPharmacyAPI\\Data\\Seed.cs",
+              "RelativeDocumentMoniker": "Data\\Seed.cs",
+              "ToolTip": "C:\\Users\\Brayl\\source\\repos\\CityPharmacyAPI\\Data\\Seed.cs",
+              "RelativeToolTip": "Data\\Seed.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAAAA0AAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T03:19:41.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Brayl\\source\\repos\\CityPharmacyAPI\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Brayl\\source\\repos\\CityPharmacyAPI\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABEAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:57:07.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Brayl\\source\\repos\\CityPharmacyAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Brayl\\source\\repos\\CityPharmacyAPI\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAACAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:14:39.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Medicine.cs",
+              "DocumentMoniker": "C:\\Users\\Brayl\\source\\repos\\CityPharmacyAPI\\Models\\Medicine.cs",
+              "RelativeDocumentMoniker": "Models\\Medicine.cs",
+              "ToolTip": "C:\\Users\\Brayl\\source\\repos\\CityPharmacyAPI\\Models\\Medicine.cs",
+              "RelativeToolTip": "Models\\Medicine.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:14:27.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppRole.cs",
+              "DocumentMoniker": "C:\\Users\\Brayl\\source\\repos\\CityPharmacyAPI\\Models\\AppRole.cs",
+              "RelativeDocumentMoniker": "Models\\AppRole.cs",
+              "ToolTip": "C:\\Users\\Brayl\\source\\repos\\CityPharmacyAPI\\Models\\AppRole.cs",
+              "RelativeToolTip": "Models\\AppRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:10:30.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Brayl\\source\\repos\\CityPharmacyAPI\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Brayl\\source\\repos\\CityPharmacyAPI\\Models\\AppUser.cs",
+              "RelativeToolTip": "Models\\AppUser.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAkAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T00:56:46.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\Brayl\\source\\repos\\CityPharmacyAPI\\Models\\Inventory.cs",
+              "RelativeDocumentMoniker": "Models\\Inventory.cs",
+              "ToolTip": "C:\\Users\\Brayl\\source\\repos\\CityPharmacyAPI\\Models\\Inventory.cs",
+              "RelativeToolTip": "Models\\Inventory.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:40:29.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Brayl\\source\\repos\\CityPharmacyAPI\\Data\\DbContext.cs",
+              "RelativeDocumentMoniker": "Data\\DbContext.cs",
+              "ToolTip": "C:\\Users\\Brayl\\source\\repos\\CityPharmacyAPI\\Data\\DbContext.cs",
+              "RelativeToolTip": "Data\\DbContext.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:09:49.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ItemStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Brayl\\source\\repos\\CityPharmacyAPI\\Data\\Enum\\ItemStatus.cs",
+              "RelativeDocumentMoniker": "Data\\Enum\\ItemStatus.cs",
+              "ToolTip": "C:\\Users\\Brayl\\source\\repos\\CityPharmacyAPI\\Data\\Enum\\ItemStatus.cs",
+              "RelativeToolTip": "Data\\Enum\\ItemStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T03:50:48.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "C:\\Users\\Brayl\\source\\repos\\CityPharmacyAPI\\Data\\UserRoles.cs",
+              "RelativeDocumentMoniker": "Data\\UserRoles.cs",
+              "ToolTip": "C:\\Users\\Brayl\\source\\repos\\CityPharmacyAPI\\Data\\UserRoles.cs",
+              "RelativeToolTip": "Data\\UserRoles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:08:52.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IdentityStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Brayl\\source\\repos\\CityPharmacyAPI\\Data\\Enum\\IdentityStatus.cs",
+              "RelativeDocumentMoniker": "Data\\Enum\\IdentityStatus.cs",
+              "ToolTip": "C:\\Users\\Brayl\\source\\repos\\CityPharmacyAPI\\Data\\Enum\\IdentityStatus.cs",
+              "RelativeToolTip": "Data\\Enum\\IdentityStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T01:52:20.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Brayl\\source\\repos\\CityPharmacyAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Brayl\\source\\repos\\CityPharmacyAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T00:51:34.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Brayl\\source\\repos\\CityPharmacyAPI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Brayl\\source\\repos\\CityPharmacyAPI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T00:51:11.192Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

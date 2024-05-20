@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ctQpZCM9d2sBoWGXgsG7ZPY1WbfzYRIaIyzAhp8ijDA=",
+  "Source": "CityPharmacyAPI",
+  "BasePath": "_content/CityPharmacyAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
